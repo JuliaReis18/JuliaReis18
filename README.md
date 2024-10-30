@@ -4,7 +4,7 @@ Sou estudante de Engenharia de Software na Universidade de Brasília, com uma pa
 
 Meu foco atual é construir uma base sólida em desenvolvimento de software para a minha trajetória profissional , explorando projetos práticos que desafiem minha criatividade e aprimorem minhas habilidades técnicas. Neste GitHub, compartilho projetos, códigos e aprendizados da minha jornada para me tornar uma desenvolvedora versátil e impactar o universo da tecnologia.
 
-
+##
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css3" src="https://img.icons8.com/color/48/css3.png" height="35" width="40"/>
@@ -21,6 +21,7 @@ Meu foco atual é construir uma base sólida em desenvolvimento de software para
 </div>
 
 <br>
+##
 
 
 

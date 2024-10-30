@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou a Júlia Massuda!
+## 👋 Olá! Eu sou a Júlia.
 
 Sou estudante de Engenharia de Software na Universidade de Brasília, com uma paixão enorme por tecnologia e inovação. Acredito no poder transformador da tecnologia e busco desenvolver soluções que façam a diferença.
 

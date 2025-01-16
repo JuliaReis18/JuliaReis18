@@ -20,7 +20,6 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evoluç�
 
 
 <div style="display: inline_block"><br>
-  <a href="mailto:julia.massuda@gmail.com"><img align="center" alt="HTML" height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a href="https://www.linkedin.com/in/j%C3%BAlia-massuda-166068291/"><img align="center" alt="HTML" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat">
  
 </div>

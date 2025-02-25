@@ -4,7 +4,7 @@ Sou estudante de Engenharia de Software na Universidade de Brasília, com uma pa
 
 Meu foco atual é construir uma base sólida em desenvolvimento de software para a minha trajetória profissional , explorando projetos práticos que desafiem minha criatividade e aprimorem minhas habilidades técnicas. Neste GitHub, compartilho projetos, códigos e aprendizados da minha jornada para me tornar uma desenvolvedora versátil e impactar o universo da tecnologia.
 
-## Tecnologias Usadas
+### Tecnologias Usadas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -13,7 +13,7 @@ Meu foco atual é construir uma base sólida em desenvolvimento de software para
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
-##
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JpRodrigues2&hide_progress=true)
 

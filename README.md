@@ -11,6 +11,8 @@ Meu foco atual é construir uma base sólida em desenvolvimento de software para
    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JpRodrigues2&hide_progress=true)
+
 ##
 
 Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução no universo da programação.😊
